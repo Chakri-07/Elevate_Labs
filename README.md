@@ -7,3 +7,6 @@ This repository contains my daily internship activities, notes, and learning pro
 - [Documented work of Task-5](https://www.canva.com/design/DAGr1-GEyUI/EOKcZSZ1q4Us1vAiB2KUVg/edit?utm_content=DAGr1-GEyUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Documented work of Task-6](https://www.canva.com/design/DAGr5lh3nwA/GylA3XerBUnfpPv0qj5LLQ/edit?utm_content=DAGr5lh3nwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Documented work of Task-7](https://www.canva.com/design/DAGsFOY0fBc/IQcc0fD8f_BbbBSlSy_NSQ/edit?utm_content=DAGsFOY0fBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Project
+### Title: Deploy a honeypot to simulate vulnerable services and log attackers.
